@@ -36,6 +36,16 @@
 
 
 
+克隆本项目：
+
+```bash
+git clone https://github.com/JeanAulis/wx_auto_messages.git
+```
+
+或者下载`ocrauto.py`和`search_box.png`以及`input_box.png`这三个即可
+
+
+
 需安装以下库：
 
 ```bash
@@ -84,13 +94,13 @@ messages = [
 - 发送过快导致卡顿，发送失败（请自行添加`time.sleep()`）
 - 其他没发现的
 
-咳咳，懒得改了，自己在源代码上面修改吧，不会QT，这只是一种解决方法，大佬们有更好的解决方法更好
+能力有限，有啥问题放AI解决吧
 
 
 
 ## 最后
 
-能力有限，有啥问题放AI解决吧
+咳咳，懒得改了，自己在源代码上面修改吧，不会QT，这只是一种解决方法，大佬们有更好的解决方法更好
 
 
 
